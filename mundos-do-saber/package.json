@@ -1,0 +1,17 @@
+{
+  "name": "mundos-do-saber",
+  "version": "1.0.0",
+  "description": "Jogo educacional inclusivo - Mundos do Saber",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder"
+  },
+  "author": "Nicole de Carvalho Macedo",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^25.3.1",
+    "electron-builder": "^23.6.0"
+  },
+  "dependencies": {}
+}
